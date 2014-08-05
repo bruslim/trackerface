@@ -1,0 +1,37 @@
+{
+  "name": "trackerface",
+  "version": "0.0.0",
+  "description": "UDP Tracker Client Interface",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "ip": "^0.3.0",
+    "bxxcode-gmp": "^0.0.2",
+    "bigint": "^0.4.2",
+    "request": "^2.39.0",
+    "rsvp": "^3.0.9",
+    "torrentmeta": "^0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bruslim/trackerface.git"
+  },
+  "keywords": [
+    "bittorrent",
+    "udp",
+    "tracker",
+    "client"
+  ],
+  "author": "bruslim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bruslim/trackerface/issues"
+  },
+  "homepage": "https://github.com/bruslim/trackerface"
+}
